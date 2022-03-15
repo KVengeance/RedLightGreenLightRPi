@@ -29,7 +29,7 @@ I share here my implementation for you to enjoy and edit, hopefully improve!
 
 ![Raspberry Pi Pins](/Assets/pir-diagram.png)
 
-### Run the RG "GAME NEWEST.py"
+### Run the "RG GAME NEWEST.py"
 
 NOTES: You may wish to adjust the motion sensor screws to an appropriate sesnitivity.
 
