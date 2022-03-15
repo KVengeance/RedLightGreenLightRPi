@@ -27,7 +27,7 @@ I share here my implementation for you to enjoy and edit, hopefully improve!
 
 ### Attach the Motion Sensor to the following Pins
 
-![Raspberry Pi Pins](/Assets/redlightgreenlight/pngpir-diagram.png)
+![Raspberry Pi Pins](/Assets/pir-diagram.png)
 
 ### Run the RG "GAME NEWEST.py"
 
