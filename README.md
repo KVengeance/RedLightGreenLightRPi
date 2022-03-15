@@ -6,13 +6,13 @@ Welcome to my repository for a single player version of Red Light, Green Light t
 
 I share here my implementation for you to enjoy and edit, hopefully improve!
 
-##What you will need:
+## What you will need:
 
 ### Raspberry Pi - I've tested this on an RPi 3 & 4
 ### Motion Sensor - The one I used is availble here: https://thepihut.com/products/pir-motion-sensor-module
 ### Some Female to Female patch leads
 
-##Python Dependencies:
+## Python Dependencies:
 
 ### PyGame
 ### GPIOZero
@@ -20,16 +20,16 @@ I share here my implementation for you to enjoy and edit, hopefully improve!
 ### Time
 
 ## Instructions
-RG GAME NEWEST.py
-Download the repository as a zip file to your Raspberry Pi
 
-Unzip to Desktop
+###Download the repository as a zip file to your Raspberry Pi
 
-Attach the Motion Sensor to the following Pins
+###Unzip to Desktop
 
-![Raspberry Pi Pins](/Assets/redlightgreenlight.pngpir-diagram.png)
+###Attach the Motion Sensor to the following Pins
 
-Run the RG "GAME NEWEST.py"
+###![Raspberry Pi Pins](/Assets/redlightgreenlight/pngpir-diagram.png)
+
+###Run the RG "GAME NEWEST.py"
 
 NOTES: You may wish to adjust the motion sensor screws to an appropriate sesnitivity.
 
