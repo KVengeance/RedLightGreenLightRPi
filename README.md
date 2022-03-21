@@ -8,9 +8,9 @@ I share here my implementation for you to enjoy and edit, hopefully improve!
 
 ## What you will need:
 
-### Raspberry Pi - I've tested this on an RPi 3 & 4
-### Motion Sensor - The one I used is availble here: https://thepihut.com/products/pir-motion-sensor-module
-### Some Female to Female patch leads
+Raspberry Pi - I've tested this on an RPi 3 & 4
+Motion Sensor - The one I used is availble here: https://thepihut.com/products/pir-motion-sensor-module
+Some Female to Female patch leads
 
 ## Python Dependencies:
 
