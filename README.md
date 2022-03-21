@@ -14,22 +14,20 @@ I share here my implementation for you to enjoy and edit, hopefully improve!
 
 ## Python Dependencies:
 
-### PyGame
-### GPIOZero
-### Random
-### Time
+PyGame
+
 
 ## Instructions
 
-### Download the repository as a zip file to your Raspberry Pi
+Download the repository as a zip file to your Raspberry Pi
 
-### Unzip to Desktop
+Unzip to Desktop
 
-### Attach the Motion Sensor to the following Pins
+Attach the Motion Sensor to the following Pins
 
 ![Raspberry Pi Pins](/Assets/pir-diagram.png)
 
-### Run the "RG GAME NEWEST.py"
+Run the "RG GAME NEWEST.py"
 
 NOTES: You may wish to adjust the motion sensor screws to an appropriate sesnitivity.
 
